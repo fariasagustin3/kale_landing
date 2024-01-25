@@ -1,0 +1,147 @@
+{
+  "hero": {
+    "subtitulo": "CREATIVE TOOLSET",
+    "titulo": {
+      "regular": "Presupuestos\n            para",
+      "bold": "creativos"
+    },
+    "parrafo": "Menos tiempo en tareas administrativas se traduce\n        en más tiempo para la creatividad.",
+    "CTA": {
+      "btn": "Registrate",
+      "subtitulo": "Beta testing por tiempo limitado"
+    }
+  },
+  "section1": {
+    "titulo": {
+      "subtitle": "VERSATILIDAD",
+      "title": "Presupuestos profesionales\n",
+      "titleBold": "a la medida"
+    },
+    "slider": [
+      {
+        "title": "PERSONALIZACIÓN TOTAL",
+        "text": "Dale vida a tus propuestas adaptando colores, tipografías y diseños. Convierte cada presupuesto en un reflejo\nde tu marca y estilo único.",
+        "img": "/presupuestos_image.png"
+      },
+      {
+        "title": "PERSONALIZACIÓN TOTAL2",
+        "text": "Dale vida a tus propuestas adaptando colores, tipografías y diseños. Convierte cada presupuesto en un reflejo\nde tu marca y estilo único.",
+        "img": "/presupuestos_image.png"
+      },
+      {
+        "title": "PERSONALIZACIÓN TOTAL3",
+        "text": "Dale vida a tus propuestas adaptando colores, tipografías y diseños. Convierte cada presupuesto en un reflejo\nde tu marca y estilo único.",
+        "img": "/presupuestos_image.png"
+      },
+      {
+        "title": "PERSONALIZACIÓN TOTAL4",
+        "text": "Dale vida a tus propuestas adaptando colores, tipografías y diseños. Convierte cada presupuesto en un reflejo\nde tu marca y estilo único.",
+        "img": "/presupuestos_image.png"
+      }
+    ]
+  },
+  "section2": {
+    "subtitle": "VERSATILIDAD",
+    "title": {
+      "regular": "Presupuestos con",
+      "bold": " impacto visual "
+    },
+    "parrafo": "En la industria creativa, la presentación es crucial. Una propuesta meticulosamente elaborada y visualmente impresionante sirve como introducción al cliente, sentando las bases para una percepción positiva de tu empresa. Con Domain.com, cada propuesta es una obra maestra artística, maximizando tus oportunidades de dejar una impresión duradera.",
+    "img": "url of section 2"
+  },
+  "section3": {
+    "subtitle": "PRESISIÓN",
+    "title": {
+      "regular": "Plantillas que",
+      "bold": "se ajustan a tus necesidades"
+    },
+    "parrafo": {
+      "p1": "En el dinámico mundo de la creatividad, el tiempo es esencial.",
+      "p2": "Sumérgete en un mundo de comodidad con plantillas diseñadas para adaptarse a cada matiz de tus requisitos creativos. ",
+      "p3": "Domain.com va más allá de lo ordinario, ofreciendo no solo visuales y diseños cautivadores, sino también textos seleccionados que se alinean con tu industria.",
+      "p4": "Edita, personaliza y adapta la plantilla para que refleje tu empresa de manera rápida y sencilla."
+    },
+    "img": "url of section 3"
+  },
+
+  "section4": {
+    "subtitle": "EVOLUCIÓN",
+    "title": {
+      "regular": "Simplifica",
+      "bold": "el éxito"
+    },
+    "parrafo": {
+      "p1": "Optimiza tu flujo de trabajo en la creación de propuestas y dispara tus tasas de éxito. Nuestra plataforma garantiza que tus propuestas sean visualmente cautivadoras y adaptadas a tu audiencia.",
+      "p2": "En minutos, puedes presentar una propuesta pulida y detallada que hable por sí misma sobre tu visión creativa, dándote una ventaja competitiva para asegurar clientes valiosos."
+    },
+    "img": "url of section 2"
+  },
+  "section5": {
+    "subtitle": "EFECTIVO",
+    "title": {
+      "regular": "Firma al",
+      "bold": "instante"
+    },
+    "parrafo": "Cierra el trato al momento. Con Domain.io, tus clientes pueden firmar en el acto, transformando el proceso de propuesta en una transacción sin complicaciones. Sin más demoras, sin más idas y venidas, solo un cierre rápido y eficiente que mejora la satisfacción del cliente.",
+    "img": "url of section 2"
+  },
+  "Banner": {
+    "title": "REGÍSTRATE AHORA",
+    "parrafo": "Por tiempo limitado estamos en beta testing abierto para el público.",
+    "Btn": "Registrate"
+  },
+  "faq": [
+    {
+      "pregunta": "¿Qué hace Domain.io diferente de otras herramientas de presupuesto?",
+      "respuesta": "Domain.io está diseñado específicamente para profesionales creativos, con funciones de personalización avanzadas y análisis en tiempo real que no encontrarás en otras herramientas."
+    },
+    {
+      "pregunta": "¿Necesito conocimientos técnicos para usar Domain.io?",
+      "respuesta": "No en absoluto. Domain.io es intuitivo y fácil de usar, independientemente de tu nivel de habilidad técnica."
+    },
+    {
+      "pregunta": "¿Ofrecen soporte técnico en caso de problemas o dudas?",
+      "respuesta": "¡Definitivamente! Nuestro equipo de soporte está disponible para ayudarte con cualquier pregunta o preocupación que tengas. Puedes escribirnos a info@Domain.io o adicionalmente puedes clickear el icono de chat en la parte inferior derecha de la app."
+    },
+    {
+      "pregunta": "¿Cómo puedo usar Domain.io para mi profesión?",
+      "respuesta": "Recomendamos que elabores presupuestos detallados de los proyectos que ejecutas con regularidad. De esta manera, con la llegada de un nuevo cliente, simplemente podrías duplicar el presupuesto base y ajustar los detalles específicos según las necesidades del cliente. Este método te permitirá tener un presupuesto completo y profesional listo para ser enviado en tan solo unos minutos."
+    },
+    {
+      "pregunta": "¿Cómo puedo compartir mis opiniones, sugerencias o reportar inconvenientes sobre la aplicación?",
+      "respuesta": "Valoramos profundamente sus opiniones y comentarios. Puede comunicarse directamente con nosotros enviando un correo electrónico adicionalmente, contamos con un servicio de chat en vivo donde puede dejarnos un mensaje breve. Si prefiere proporcionar una retroalimentación más detallada, lo invitamos a completar nuestro formulario específico para ello en https://pool.com. Estamos comprometidos con la mejora continua y su feedback es esencial para nosotros."
+    }
+  ],
+  "footer": {
+    "top": {
+      "left": {
+        "logo": {
+          "logoPath": "url del logo",
+          "url": "redireccion url del logo"
+        },
+        "ig": {
+          "iconPath": "url del icono",
+          "url": "www.google.com"
+        }
+      },
+      "right": {
+        "boletin": {
+          "btn": {
+            "texto": "suscribete al boletin mensual",
+            "link": " aqui necesito tu ayuda esto deberia de abrir un modal de sendgrid con un formulario"
+          }
+        }
+      }
+    },
+    "botton": {
+      "item1": {
+        "text": "politicas de privacidad",
+        "link": "www.google.com"
+      },
+      "item2": {
+        "text": "Terminos y condiciones",
+        "link": "www.google.com"
+      }
+    }
+  }
+}
