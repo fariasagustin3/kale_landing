@@ -36,4 +36,16 @@ body {
   .circle-gray {
     color: var(--gray);
   }
+
+  .subtitle {
+    @apply text-black tracking-[10px] font-semibold text-center;
+  }
+
+  .title {
+    @apply text-blue-light text-6xl mt-4;
+  }
+
+  .parrafo {
+    @apply text-right text-3xl font-normal;
+  }
 }

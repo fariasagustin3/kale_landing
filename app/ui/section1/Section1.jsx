@@ -4,16 +4,16 @@ import data from "../../../text_content.json";
 import Image from "next/image";
 import ReactSimplyCarousel from "react-simply-carousel";
 
-function Presupuestos() {
+function Section1() {
   const [activeSlideIndex, setActiveSlideIndex] = useState(0);
 
   return (
     <section className="mt-40 mb-10 pb-10">
       <div className="flex flex-col items-center justify-center">
-        <h3 className="text-black tracking-[10px] font-semibold text-center">
+        <h3 className="subtitle">
           {data.section1.titulo.subtitle.toUpperCase()}
         </h3>
-        <h1 className="text-blue-light text-6xl text-center w-[800px] mt-4">
+        <h1 className="title text-center w-[800px]">
           {data.section1.titulo.title}
           <span className="text-blue-bold">
             {data.section1.titulo.titleBold}
@@ -153,4 +153,4 @@ function Presupuestos() {
   );
 }
 
-export default Presupuestos;
+export default Section1;
