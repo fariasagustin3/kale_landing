@@ -1,4 +1,6 @@
 import Banner from "./ui/banner/Banner";
+import Faq from "./ui/faq/Faq";
+import Footer from "./ui/footer/Footer";
 import Hero from "./ui/hero/Hero";
 import Navbar from "./ui/navbar/Navbar";
 import Section1 from "./ui/section1/Section1";
@@ -18,6 +20,8 @@ export default function Home() {
       <Section4 />
       <Section5 />
       <Banner />
+      <Faq />
+      <Footer />
     </main>
   );
 }

@@ -116,11 +116,11 @@
     "top": {
       "left": {
         "logo": {
-          "logoPath": "url del logo",
+          "logoPath": "/LOGO.png",
           "url": "redireccion url del logo"
         },
         "ig": {
-          "iconPath": "url del icono",
+          "iconPath": "/instagram.svg",
           "url": "www.google.com"
         }
       },
@@ -135,7 +135,7 @@
     },
     "botton": {
       "item1": {
-        "text": "politicas de privacidad",
+        "text": "Politicas de privacidad",
         "link": "www.google.com"
       },
       "item2": {
