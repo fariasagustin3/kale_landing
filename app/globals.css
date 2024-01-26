@@ -6,6 +6,7 @@
   --white: #FFFFFF;
   --darkblue: #212153;
   --lightblue: #0139ff;
+  --aquamarine: #dceef2;
   --black: #000000;
   --gray: #656565;
   --lightgray: #cdcdcd;
@@ -24,6 +25,10 @@ body {
     color: var(--darkblue);
   }
 
+  .bg-aquamarine {
+    background-color: var(--aquamarine);
+  }
+
   .text-blue-bold {
     color: var(--darkblue);
     font-weight: 800;
@@ -38,7 +43,7 @@ body {
   }
 
   .subtitle {
-    @apply text-black tracking-[10px] font-semibold text-center;
+    @apply text-black tracking-[10px] font-semibold;
   }
 
   .title {
@@ -46,6 +51,6 @@ body {
   }
 
   .parrafo {
-    @apply text-right text-3xl font-normal;
+    @apply text-3xl font-normal;
   }
 }

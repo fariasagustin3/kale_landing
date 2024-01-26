@@ -12,7 +12,7 @@ function Section3() {
             {data.section3.title.regular}{" "}
             <span className="text-blue-bold">{data.section3.title.bold}</span>
           </h1>
-          <div className="flex flex-col items-end w-4/5 gap-10">
+          <div className="flex flex-col items-end w-4/5 gap-10 text-right">
             <p className="parrafo">{data.section3.parrafo.p1}</p>
             <p className="parrafo">{data.section3.parrafo.p2}</p>
             <p className="parrafo">{data.section3.parrafo.p3}</p>

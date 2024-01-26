@@ -43,11 +43,11 @@
   "section2": {
     "subtitle": "VERSATILIDAD",
     "title": {
-      "regular": "Presupuestos con",
+      "regular": "Presupuestos\n con",
       "bold": " impacto visual "
     },
     "parrafo": "En la industria creativa, la presentación es crucial. Una propuesta meticulosamente elaborada y visualmente impresionante sirve como introducción al cliente, sentando las bases para una percepción positiva de tu empresa. Con Domain.com, cada propuesta es una obra maestra artística, maximizando tus oportunidades de dejar una impresión duradera.",
-    "img": "url of section 2"
+    "img": "/mockup_section_2.png"
   },
   "section3": {
     "subtitle": "PRESISIÓN",
@@ -74,7 +74,7 @@
       "p1": "Optimiza tu flujo de trabajo en la creación de propuestas y dispara tus tasas de éxito. Nuestra plataforma garantiza que tus propuestas sean visualmente cautivadoras y adaptadas a tu audiencia.",
       "p2": "En minutos, puedes presentar una propuesta pulida y detallada que hable por sí misma sobre tu visión creativa, dándote una ventaja competitiva para asegurar clientes valiosos."
     },
-    "img": "url of section 2"
+    "img": "/mockup_section4.png"
   },
   "section5": {
     "subtitle": "EFECTIVO",
