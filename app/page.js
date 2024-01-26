@@ -1,3 +1,4 @@
+import Banner from "./ui/banner/Banner";
 import Hero from "./ui/hero/Hero";
 import Navbar from "./ui/navbar/Navbar";
 import Section1 from "./ui/section1/Section1";
@@ -16,6 +17,7 @@ export default function Home() {
       <Section3 />
       <Section4 />
       <Section5 />
+      <Banner />
     </main>
   );
 }

@@ -53,4 +53,12 @@ body {
   .parrafo {
     @apply text-3xl font-normal;
   }
+
+  .banner-title {
+    @apply font-bold text-left text-3xl capitalize text-[var(--gray)];
+  }
+
+  .banner-p {
+    @apply text-left text-[var(--gray)] font-medium text-2xl
+  }
 }
